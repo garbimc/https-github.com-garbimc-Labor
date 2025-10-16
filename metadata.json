@@ -1,0 +1,7 @@
+{
+  "name": "LaborSync - Gestão de Mão de Obra",
+  "description": "Uma solução logística para controlar processos relacionados à mão de obra em armazéns, incluindo registro de funcionários, demanda de produção, controle de ponto facial, integração de atividades e dashboards operacionais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
